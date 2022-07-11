@@ -2,7 +2,7 @@
 Tired of waiting on codechef to see whether your submission is correct then this is the solution for you.<br><br>
 This extension observes your activity and automatically follows your submission when you do it. It then notifies you when the
 result has arrived.<br><br>
-So all you have to do is make the submission and proceed with your other activities. When the result comes it will notify you.<br><br>
+Make the submission and then wait for the notifier to notify you, it's that simple.<br><br>
 Also you can click on the extension icon to see how you performed on various subtasks of you submission. It reports you every 
 detail that you will find on the codechef's result page.<br><br>
 Use <b>alt+shift+delete</b> key to instantly remove all the cached result or you could click on the <b>"DONE"</b> button of the popup to 
